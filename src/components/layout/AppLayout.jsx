@@ -125,7 +125,7 @@ const AppLayout = () => (WrappedComponent) => {
             />
 
             {isLoading ? (
-              <Skeleton />
+              </>
             ) : (
               <Drawer open={isMobile} onClose={handleMobileClose}>
                 <ChatList

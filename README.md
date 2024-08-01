@@ -39,3 +39,9 @@ Snappy is a real-time chat application built using the MERN stack (MongoDB, Expr
 - **Client:** https://github.com/Ravi192003Raj/Snappy-ChatApp-client
 - **Server:** https://github.com/Ravi192003Raj/Snappy-ChatApp-server
 - **Live Demo:** https://snappychatapp-ravi-rajs-projects-f79ece4d.vercel.app/
+
+## Installation
+
+- **Clone the repository:** https://github.com/Ravi192003Raj/Snappy-ChatApp-client
+- **npm Install:** Installs all the dependencies.
+- **npm run dev:** Run the application.

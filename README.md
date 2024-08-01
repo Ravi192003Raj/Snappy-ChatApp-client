@@ -27,8 +27,15 @@ Snappy is a real-time chat application built using the MERN stack (MongoDB, Expr
 - **File Storage:** Cloudinary
 
 ## Environment variables
--**MONGO_URI**=your-mongo-uri
--**CLOUDINARY_CLOUD_NAME**=your-cloudinary-cloud-name
--**CLOUDINARY_API_KEY**=your-cloudinary-api-key
--**CLOUDINARY_API_SECRET**=your-cloudinary-api-secret
--**JWT_SECRET**=your-jwt-secret
+
+- **MONGO_URI**=your-mongo-uri
+- **CLOUDINARY_CLOUD_NAME**=your-cloudinary-cloud-name
+- **CLOUDINARY_API_KEY**=your-cloudinary-api-key
+- **CLOUDINARY_API_SECRET**=your-cloudinary-api-secret
+- **JWT_SECRET**=your-jwt-secret
+
+## Source Code/Links
+
+- **Client:** https://github.com/Ravi192003Raj/Snappy-ChatApp-client
+- **Server:** https://github.com/Ravi192003Raj/Snappy-ChatApp-server
+- **Live Demo:** https://snappychatapp-ravi-rajs-projects-f79ece4d.vercel.app/
